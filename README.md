@@ -11,3 +11,13 @@
 
 第一次用 Swoft
 
+## 运行
+
+```bash
+$git clone git@github.com:JokeLua/swoft-admin-template.git
+$cd swoft-admin-template
+$composer install -vv
+$php bin/swoft http:start
+```
+
+访问 http://localhost:18306/admin
